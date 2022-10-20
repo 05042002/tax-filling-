@@ -1,29 +1,4 @@
-# Basic Banking System
 
-**basic banking system application**
-
-Live Demo **[basicbankingsystemapp.herokuapp.com](https://basicbankingsystemapp.herokuapp.com/)**
-
-
-### Tech stacks
-
-- Frontend tools: HTML, CSS, JavaScript & Bootstrap
-
-- Backend tools: NodeJS & ExpressJS 
-
-- Database: MongoDB
-
-<br><br><br>
-
-**&copy; [Sonu Kumar Kushwaha](https://github.com/flyingsonu122)**
-
-### Thanks!
-
-Thank you for being here! You can find my other **[projects here](https://github.com/flyingsonu122?tab=repositories)**.
-
-[![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://linktr.ee/flyingsonu) 
-
-<br><br>
 
 <h5 align="center"> Let's have a chat on </h5> 
 <p align="center">
